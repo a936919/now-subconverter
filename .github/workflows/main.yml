@@ -4,7 +4,7 @@ env:
   message: 'Update subconverter'
   # 从何处更新subconverter
   # release 从release中下载稳定版，可用下面的tag参数指定版本
-  # build 拉取最新代码自行编译
+  # build 拉最新代码自行编译
   # action 从最新commit所关联github action处下载
   branch: 'release'
   # 当branch参数设置为release时，下载指定版本的release
